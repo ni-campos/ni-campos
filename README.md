@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Nicole Campos, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informações na UNIP. Sou apaixonada por tecnologia e busco meu primeiro estágio na área.
+Me chamo Nicole Campos, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informações na UNIP. Sou apaixonada por tecnologia e busco transformar ideias em soluções práticas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nicole-campos-alves-76327b330/">
